@@ -1,0 +1,12 @@
+starter\screen\Register\RegistBlankData.class
+starter\screen\Register\RegistIncorrectEmailFormat.class
+starter\screen\Register\RegistBlankPassword.class
+starter\screen\Login\LoginScreen.class
+starter\screen\Login\LoginBlankEmail.class
+starter\screen\Register\RegistBlankName.class
+starter\CucumberTestSuite.class
+starter\stepdefinitions\UserSteps.class
+starter\screen\AddProductToCart\AddProductToCartScreen.class
+starter\screen\Login\LoginBlankData.class
+starter\screen\Login\LoginInvalidPassword.class
+starter\screen\Register\RegistScreen.class
